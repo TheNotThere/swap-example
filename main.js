@@ -33,7 +33,7 @@ const UNISWAP_V3_ROUTER_ABI = [{
 }];
 
 
-const USDC = '0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb'; // Your USDC address
+const USDC = '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913'; // Your USDC address
 const WETH = '0x4200000000000000000000000000000000000006'; // Your WETH address
 const FEE = 3000; // 0.3%
 
