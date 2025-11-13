@@ -1,6 +1,6 @@
 require('dotenv').config();
 const { ethers } = require('ethers');
-
+//This is For Base Chain!!!!
 // Setup provider and wallet
 const provider = new ethers.JsonRpcProvider("");
 const wallet = new ethers.Wallet("", provider);
